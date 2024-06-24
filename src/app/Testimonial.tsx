@@ -8,7 +8,7 @@ export default function testimonial(){
             </div>
             <p className='tracking-wide leading-8 my-2'> In a fast growing and Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perferendis iure tempora, distinctio, eum voluptas ut blanditiis nihil repudiandae, ducimus soluta qui aperiam. Fuga obcaecati vero ad. Debitis ut atque temporibus! Are you a teacher or Expert , can you rent out equipment, venue or event Ticket? Or you know someone who is one hobby clue then go ahead and add ypur own page Are you a teacher or Expert , can you rent out equipment, venue or event Ticket? Or you know someone who is one hobby clue then go ahead and add ypur own pageAre you a teacher or Expert , can you rent out equipment, venue or event Ticket? Or you know someone who is one hobby clue then go ahead and add ypur own pageAre you a teacher or Expert , can you rent out equipment, venue or event Ticket? Or you know someone who is one hobby clue then go ahead and add ypur own page</p>
 
-            <div className="flex flex-col lg:flex-row justify-between my-10 "><img src="/audio.png" className='w-2/3 hidden lg:block '/><img src="/sm-audio.png" className="lg:hidden w-2/3 my-5 mx-auto"/><img src="/port.png" className="w-1/2 my-5 mx-auto"/></div>
+            <div className="flex flex-col lg:flex-row justify-between my-10 "><img src="/audio.png" className='w-2/3 hidden h-24 lg:block '/><img src="/sm-audio.png" className="lg:hidden w-2/3 my-5 mx-auto"/><img src="/port.png" className="w-1/2 my-5 md:my-0 mx-auto"/></div>
         </div>
 
 

@@ -26,8 +26,8 @@ export default function Home() {
 
         <div className='lg:hidden'>
               <div>
-                  <input type="email" placeholder=' email'  className='w-full h-20 lg:h-10 my-4 border-2 border-gray-400 rounded-xl'/>
-                  <input type="password" placeholder=' password'className='w-full h-20 lg:h-10 my-4 border-2 border-gray-400 rounded-xl'/>
+                  <input type="email" placeholder=' email'  className='w-full h-16 lg:h-10 my-4 border-2 border-gray-400 rounded-xl'/>
+                  <input type="password" placeholder=' password'className='w-full h-16 lg:h-10 my-4 border-2 border-gray-400 rounded-xl'/>
                     <div className='flex justify-between'>
                     <div><input type="checkbox"/>Remeber me</div> 
                       <a className='flex'>
